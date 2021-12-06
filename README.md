@@ -5,3 +5,4 @@
 - 📫 How to reach me E-mail: mahmoudalsayied@gmail.com  OR  phone: +0201062330082
 
 - here is my Linked in : https://linkedin.com/in/mahmoud-alsayied
+- here is my portfolio : https://mahmoud-alsayed-portfolio.netlify.app/
