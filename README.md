@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Alsayed</h1>
 <h3 align="center">A passionate frontend (JavaScript, Reactjs) developer from Egypt</h3>
 
-- 🔭 I’m currently working on [freelancers-gate](freelancers-gate.com)
+- 🔭 I’m currently working on [freelancers-gate](http://freelancers-gate.com/)
 
 - 🌱 I’m currently learning **Reactjs, diving deep in JavaScript**
 
