@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **building new website using HTML, SASS, JS, ReactJS, Redux**
 
-- 🤝 I’m looking for help with **any project need my support**
-
 - 👨‍💻 All of my projects are available at [https://mahmoud-alsayed-portfolio.netlify.app/](https://mahmoud-alsayed-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://linkedin.com/in/mahmoud-alsayied](https://linkedin.com/in/mahmoud-alsayied)
