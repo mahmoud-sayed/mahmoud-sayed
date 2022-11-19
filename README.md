@@ -1,4 +1,4 @@
-![MasterHead](https://gifyu.com/image/ShsOp)
+![MasterHead](https://gifyu.com/image/ShsOp.gif)
 <h1 align="center">Hi 👋, I'm Mahmoud AlSayed</h1>
 <h3 align="center">Frontend JavaScript ReactJS developer</h3>
 
