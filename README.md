@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/Q9Z6ASHH713qOF2Gtv/giphy.gif)
+<p style='width:"100%"; aligne:"center"'><img src='https://media.giphy.com/media/Q9Z6ASHH713qOF2Gtv/giphy.gif' style='width:"100%"'/></p>
 <h1 align="center">Hi 👋, I'm Mahmoud AlSayed</h1>
 <h3 align="center">Frontend JavaScript ReactJS developer</h3>
 
